@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://greenmillweb.github.io/sitemap.xml
